@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oliverneut
-- 👀 I’m interested in computer science, art, finance, entrepreneurship, wealth creation, crypto assets
+- 👀 I’m interested in computer science, art, finance, wealth creation, crypto assets, NFTs 
 - 🌱 I’m currently learning Internet Application Design & Implementation, Constraint Programming, Cloud Computing Systems, Machine Learning and Software Quality
 - 🎓 Nova University of Science & Technology
 - 📍 Lisbon, Portugal
