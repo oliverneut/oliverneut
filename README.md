@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oliverneut
-- 👀 I’m interested in computer science, art, finance, wealth creation, crypto assets, NFTs 
+- 👀 I’m interested in computer science, art, finance, blockchain 
 - 🌱 I’m currently learning Internet Application Design & Implementation, Constraint Programming, Cloud Computing Systems, Machine Learning and Software Quality
 - 🎓 Delft University of Technology
 - 📍 Delft, the Netherlands
