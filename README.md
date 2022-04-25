@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oliverneut
-- 👀 I’m interested in computer science, art, finance, blockchain 
-- 🌱 I’m currently learning Internet Application Design & Implementation, Constraint Programming, Cloud Computing Systems, Machine Learning and Software Quality
+- 👀 I’m interested in computer science, computer vision, software engineering, art, finance, blockchain 
+- 🌱 I’m currently researching the automation of feature discovery in decision tree models (XGBoost)
 - 🎓 Delft University of Technology
 - 📍 Delft, the Netherlands
 - 📫 How to reach me @oliverneut on twitter
