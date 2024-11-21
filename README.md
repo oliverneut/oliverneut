@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @oliverneut
-- 👀 I’m interested in artificial intelligence, deep learning, art, finance, blockchain 
-- 🌱 I’m currently taking courses on deep learning and natural language processing
+- 👀 I’m interested in graph neural networks, fairness in AI, retrieval augmented generation and multilingual machine translation
+- 🌱 I’m currently taking courses on information retrieval and human-in-the-loop ML
 - 🎓 University of Amsterdam
 - 📍 Amsterdam, Netherlands
-- 📫 How to reach me @oliverneut on twitter
 
 <!---
 oliverneut/oliverneut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
